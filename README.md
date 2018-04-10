@@ -1,3 +1,12 @@
+# My solutions to the monad challenges
+
+Solutions are in the `src` directory. Original README below:
+
+---
+
+
+
+
 # The Monad Challenges
 
 The goal of this project is to provide a roadmap for hands-on exploration and
